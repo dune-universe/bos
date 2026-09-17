@@ -23,6 +23,8 @@ Contact: Daniel Bünzli `<daniel.buenzl i@erratique.ch>`"""
 maintainer: "Daniel Bünzli <daniel.buenzl i@erratique.ch>"
 authors: ["Daniel Bünzli <daniel.buenzl i@erratique.ch>"]
 tags: [ "os" "system" "cli" "command" "file" "path" "log" "unix" "org:erratique" ]
+homepage: "https://github.com/dune-universe/bos"
+bug-reports: "https://github.com/dune-universe/bos/issues"
 license: "ISC"
 depends: [
   "dune"
